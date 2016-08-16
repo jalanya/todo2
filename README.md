@@ -1,12 +1,12 @@
-Todo example 1
+<h1>Todo example 1</h1>
 
-Installation
+<h2>Installation</h2>
 
 After cloning the repository it should be enough to npm install all the dependencies and then proceed to the Development step.
 
-npm install
+<b>npm install</b>
 
-Tools
+<h2>Tools</h2>
 
 immutable 3.7.5
 react 0.14.2
